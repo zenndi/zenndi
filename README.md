@@ -73,6 +73,7 @@ const Zenndi = {
 
 ## 👁️ Visitor Count
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zenndi/count.svg?theme=classic" alt="visitor count" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-900K-blue" />
+</p>
+
