@@ -74,7 +74,12 @@ const Zenndi = {
 
 ---
 
+---
+
 ## 👁️ Visitor Count
-<img src="https://count.getloli.com/get/@zenndi?theme=gelbooru" alt="Visitor Count" />
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@zenndi?theme=booru-vivi" alt="Visitor Count" />
+</p>
 
 
