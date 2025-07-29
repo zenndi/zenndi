@@ -75,5 +75,6 @@ const Zenndi = {
 ---
 
 ## 👁️ Visitor Count
-![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/zenndi)
+<img src="https://count.getloli.com/get/@zenndi?theme=gelbooru" alt="Visitor Count" />
+
 
