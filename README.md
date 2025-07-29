@@ -68,7 +68,10 @@ const Zenndi = {
     <img src="https://img.shields.io/badge/GitHub-Zenndi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
-
+ <a href="https://guns.lol/zendi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gunslol-Zenndi-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gunslol Badge" />
+  </a>
+</p>
 ---
 
 ## 👁️ Visitor Count
