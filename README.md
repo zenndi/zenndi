@@ -31,11 +31,11 @@ const Zenndi = {
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/zenndi/my-discord-bot" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenndi&repo=my-discord-bot&theme=dark&hide_border=true&bg_color=000000" alt="my-discord-bot" />
+  <a href="[https://github.com/zai-org/GLM-V]" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zai-org&repo=GLM-V&theme=dark&hide_border=true&bg_color=000000" alt="GLM-V" />
   </a>
-  <a href="https://github.com/zenndi/redis-control-panel" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zenndi&repo=redis-control-panel&theme=dark&hide_border=true&bg_color=000000" alt="redis-control-panel" />
+  <a href="https://github.com/zai-org/GLM-4.5" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zai-org&repo=GLM-4.5&theme=dark&hide_border=true&bg_color=000000" alt="GLM-4.5" />
   </a>
 </p>
 
