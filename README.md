@@ -1,85 +1,49 @@
-<h1 align="center" style="color:#ffffff; font-weight:bold; font-family:'Fira Code', monospace;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I+am+Zenndi" alt="Hello, I am Zenndi" />
-</h1>
+<h1 align="center">👋 Hi, I'm Zendi</h1>
+<h3 align="center">AI Engineer @ ZhipuAI | Data Labeling & Machine Learning</h3>
 
 ---
 
-## 🧠 About Me
-
-```text
-const Zenndi = {
-  pronouns: "he/him",
-  code: ["JavaScript", "Python", "HTML", "CSS"],
-  tools: ["Kiro", "VSCode", "Visual Studio"],
-  databases: ["MongoDB", "Redis"],
-  currently: "Experimenting with backend bots + automations",
-  funFact: "I learn faster by breaking things first."
-}
-```
+## 🚀 About Me
+I work at **ZhipuAI**, focusing on **data labeling**, building AI pipelines, and supporting machine learning projects.  
+I enjoy working with clean datasets and building tools that make AI models more efficient.
 
 ---
 
-## 💼 What I'm Doing Now
-
-- 🔧 Building private Discord tools
-- 🌐 Learning deeper Node.js internals
-- 🐞 Hunting bugs, reversing small binaries
-- ✍️ Writing a minimal AI project doc
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="[https://github.com/zai-org/GLM-V]" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zai-org&repo=GLM-V&theme=dark&hide_border=true&bg_color=000000" alt="GLM-V" />
-  </a>
-  <a href="https://github.com/zai-org/GLM-4.5" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zai-org&repo=GLM-4.5&theme=dark&hide_border=true&bg_color=000000" alt="GLM-4.5" />
-  </a>
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
 </p>
 
+---
+
+## 📂 Featured Projects
+*(More projects coming soon…)*
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenndi&show_icons=true&theme=dark&hide_border=true&bg_color=000000" width="420" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=zenndi&theme=dark&hide_border=true&background=000000&ring=4a76fc&fire=4a76fc" width="420" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zenndi&show_icons=true&theme=dark" alt="Zendi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndi&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,redis,mongo,vscode,visualstudio,discord&theme=dark" alt="Languages and Tools" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://discord.com/users/1235350793222361281" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-Zenndi%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+## 🌍 Connect with Me
+<p align="left">
+  <a href="https://github.com/zenndi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/zenndi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Zenndi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  <a href="https://guns.lol/zendi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/guns.lol-Zenndi-FF69B4?style=for-the-badge&logo=target&logoColor=white" alt="guns.lol" />
+  <a href="https://discord.com/users/1235350793222361281" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
----
-
-## 👁️ Visitor Count
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@zenndi?theme=booru-vivi" alt="Visitor Count" />
-</p>
-
-
+⭐️ From [Zendi](https://github.com/zenndi)
