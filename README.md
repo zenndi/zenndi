@@ -10,7 +10,7 @@ I enjoy working with clean datasets and building tools that make AI models more 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -24,18 +24,23 @@ I enjoy working with clean datasets and building tools that make AI models more 
 
 ## 📂 Featured Projects
 *(More projects coming soon…)*
+
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenndi&show_icons=true&theme=dark" alt="Zendi's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndi&layout=compact&theme=dark" alt="Top Languages" />
+  <br/><br/>
+
+  <!-- 🌟 Live Profile View Counter starting from 1M -->
+  <img src="https://komarev.com/ghpvc/?username=zenndi&label=Profile+Views&color=9e9e9e&style=for-the-badge&base=1000000&abbreviated=true" alt="Zendi Profile Views" />
 </p>
 
 ---
 
 ## 🌍 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://github.com/zenndi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
