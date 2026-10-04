@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zendi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Data%20%26%20Machine%20Learning&descAlignY=58&descSize=20" width="100%" alt="Zendi banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zendi&fontSize=60&fontColor=ffffff" width="100%" alt="Zendi banner" />
 
 <p align="center">
   <a href="https://github.com/zenndi">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/zenndi?tab=followers"><img src="https://img.shields.io/github/followers/zenndi?style=for-the-badge&logo=github&color=24292e" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=zenndi&label=Profile+Views&color=9e9e9e&style=for-the-badge&base=1000000&abbreviated=true" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/zenndi/zenndi.svg?style=for-the-badge&label=Profile+Views&color=9e9e9e&extraCount=1000000" alt="Profile Views" />
 </p>
 
 ---
@@ -71,24 +71,12 @@ Yakında burada yeni projelerimi göreceksin. 🚧
   <img src="https://streak-stats.demolab.com?user=zenndi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zenndi&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies" />
-</p>
-
 ---
 
-## 📈 Aktivite Grafiği
+## 📈 Katkı Haritası
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenndi&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
-</p>
-
----
-
-## 💡 Günün Sözü
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://ghchart.rshah.org/36BCF7/zenndi" alt="Contribution chart" width="100%" />
 </p>
 
 ---
@@ -104,4 +92,4 @@ Yakında burada yeni projelerimi göreceksin. 🚧
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer" />
