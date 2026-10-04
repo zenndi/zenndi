@@ -1,54 +1,69 @@
-<h1 align="center">👋 Hi, I'm Zendi</h1>
-<h3 align="center">AI Engineer @ ZhipuAI | Data Labeling & Machine Learning</h3>
+<h1 align="center">👋 Merhaba, ben Zendi</h1>
+<h3 align="center">AI Engineer | Veri Etiketleme & Makine Öğrenmesi</h3>
 
----
-
-## 🚀 About Me
-I work at **ZhipuAI**, focusing on **data labeling**, building AI pipelines, and supporting machine learning projects.  
-I enjoy working with clean datasets and building tools that make AI models more efficient.
-
----
-
-## 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <a href="https://github.com/zenndi?tab=followers"><img src="https://img.shields.io/github/followers/zenndi?style=for-the-badge&logo=github&color=24292e" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zenndi&label=Profile+Views&color=9e9e9e&style=for-the-badge&base=1000000&abbreviated=true" alt="Profile Views" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-*(More projects coming soon…)*
+## 🚀 Hakkımda
+Yapay zekâ ve makine öğrenmesi üzerine çalışıyorum. Odak alanlarım **veri etiketleme**, **AI pipeline'ları** ve model verimliliğini artıran araçlar geliştirmek.
+
+- 🧹 Temiz ve kaliteli veri setlerine önem veririm
+- ⚙️ Veri hazırlama süreçlerini otomatikleştiren araçlar yazarım
+- 🌐 Web tarafında JavaScript / TypeScript ile arayüzler geliştiririm
+- 🌱 Şu an yeni projeler üzerinde çalışıyorum
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenndi&show_icons=true&theme=dark" alt="Zendi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndi&layout=compact&theme=dark" alt="Top Languages" />
-  <br/><br/>
+## 🛠 Teknolojiler
 
-  <!-- 🌟 Live Profile View Counter starting from 1M -->
-  <img src="https://komarev.com/ghpvc/?username=zenndi&label=Profile+Views&color=9e9e9e&style=for-the-badge&base=1000000&abbreviated=true" alt="Zendi Profile Views" />
+**AI / Veri**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+**Web**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 🌍 Connect with Me
+## 📂 Öne Çıkan Projeler
+Yakında burada yeni projelerimi göreceksin. 🚧
+
+<!-- Örnek:
+- [**proje-adi**](https://github.com/zenndi/proje-adi) – Kısa açıklama
+-->
+
+---
+
+## 📊 GitHub İstatistikleri
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zenndi&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndi&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🌍 İletişim
 <p align="center">
   <a href="https://github.com/zenndi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1235350793222361281" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
----
-
-⭐️ From [Zendi](https://github.com/zenndi)
+<p align="center">⭐️ <a href="https://github.com/zenndi">Zendi</a></p>
